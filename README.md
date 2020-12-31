@@ -11,4 +11,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManishKumarAditya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=C844B1&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=ManishKumarAditya&&show_icons=true&title_color=ffffff&icon_color=E3E609&text_color=C844B1&bg_color=191919">
